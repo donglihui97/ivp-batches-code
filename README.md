@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the numerical experiment (Section 7) of the paper
 
-> Lihui Dong and Zhuo Li, *Randomized point-query complexity of initial-value problems with batched information*, submitted to *Journal of Complexity*.
+> Lihui Dong and Zhuo Li, *Randomized point-query complexity of initial-value problems with batched information*, submitted to *Advances in Computational Mathematics*.
 
 The paper studies how the number of batches of parallel point evaluations of the right-hand side limits the error of an ODE solver. The experiment checks the predicted error exponents for one and two batches on a scalar equation.
 
@@ -87,7 +87,7 @@ If you use this code, please cite the paper:
 @unpublished{DongLi2026batched,
   author = {Lihui Dong and Zhuo Li},
   title  = {Randomized point-query complexity of initial-value problems with batched information},
-  note   = {Submitted to Journal of Complexity},
+  note   = {Submitted to Advances in Computational Mathematics},
   year   = {2026}
 }
 ```
